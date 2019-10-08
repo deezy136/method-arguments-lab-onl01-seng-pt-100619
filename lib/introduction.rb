@@ -1,7 +1,7 @@
 
 def introduction_with_language(name, language)
   
-  greet = "Hi, my name is #{name} and I am learning to program in #{language}."
+  greet = "Hi, my name is #{name}. \n"
   
   puts greet
   
